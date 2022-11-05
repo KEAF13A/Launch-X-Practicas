@@ -38,6 +38,7 @@
    		- Registra el pago y muestra las ganancias.
    		- Registra al usuario y genera automaticamente documento legal.
    		- Manda notificaciones al usuario para que vea los avances.
-
+  # BUYER PERSONA
+  ![Persona]
    	
   
