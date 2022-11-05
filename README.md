@@ -39,6 +39,6 @@
    		- Registra al usuario y genera automaticamente documento legal.
    		- Manda notificaciones al usuario para que vea los avances.
   # BUYER PERSONA
-  ![Persona]
+  ![Persona](https://github.com/KEAF13A/Launch-X-Practicas/blob/main/assets/Buyer.JPG)
    	
   
