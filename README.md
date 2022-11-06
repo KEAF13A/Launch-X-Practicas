@@ -18,18 +18,19 @@
    		- Tambien quiero que se realicen pagos, un apartado donde se pueda registrar y otro apartado donde pueda ver actualizaciones y 
    		- que le llegen correos para ver ese proceso.
    		
-   # Requerimientos Funcionales y criterios de aceptación
-   
-   - _Descripción:_  El usuario requiere automatizar la entrada de demandas por medio de un formulario, 
+   # REQUERIMIENTOS FUNCIONALES Y CRITERIOS DE ACEPTACIÓN 
+   - _Descripción:_  El usuario requiere automatizar la entrada de demandas por medio de un formulario
    - y haga crearse una cuenta para llevar un control, donde despues se le cobra y genera automaticamente un archivo word con la información, 
    - se le envié correos recurrentes con la actualización de su caso y responsive
-   - 
+  # ANALISIS DE REQUISITOS Y REQUERIMIENTOS  
+  ![desing](https://github.com/KEAF13A/Launch-X-Practicas/blob/main/assets/Abogabot.png)
    - **OBJETIVOS**
    		- Automatización de demandas.
  
    - **MEDIOS** 
-   		- Automatizar mediante una pagina web compatible para dispositivos moviles
-  
+   		- Mediante una pagina web
+   # REQUISITOS TECNICOS 
+   - Desktop y dispositivos moviles
    # PROCESO
    - **_Usuario_** 
    		- Rellenara un formulario y se le redigira al pago donde despues se le dara seguimiento.
@@ -39,6 +40,6 @@
    		- Registra al usuario y genera automaticamente documento legal.
    		- Manda notificaciones al usuario para que vea los avances.
   # BUYER PERSONA
-  ![Persona](https://github.com/KEAF13A/Launch-X-Practicas/blob/main/assets/Buyer.JPG)
+  ![Persona](https://github.com/KEAF13A/Launch-X-Practicas/blob/main/assets/Buyer.png)
    	
   
