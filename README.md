@@ -44,8 +44,13 @@
   # PUBLICO OBJETIVO
   ![Public](https://github.com/KEAF13A/Launch-X-Practicas/blob/main/assets/Publico_Objetivo.png)
   # WIREFRAME
-  ![Desktop](https://github.com/KEAF13A/Launch-X-Practicas/blob/main/assets/Desktop.png)
-  ![Mobile](https://github.com/KEAF13A/Launch-X-Practicas/blob/main/assets/Mobile.png)
+  ![Wire](https://github.com/KEAF13A/Launch-X-Practicas/blob/main/assets/Deskandmob.png)
   # LOGO
   ![Logo](https://github.com/KEAF13A/Launch-X-Practicas/blob/main/assets/Logo-Abogabot.png)
+  # Paleta de Colores
+  - .color1 { `#d4cdc5` };
+  - .color2 { `#5b88a5` };
+  - .color3 { `#f4f4f2` };
+  - .color4 { `#191013` };
+  - .color5 { `#243a69` };
   
