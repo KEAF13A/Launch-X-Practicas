@@ -46,4 +46,6 @@
   # WIREFRAME
   ![Desktop](https://github.com/KEAF13A/Launch-X-Practicas/blob/main/assets/Desktop.png)
   ![Mobile](https://github.com/KEAF13A/Launch-X-Practicas/blob/main/assets/Mobile.png)
+  # LOGO
+  ![Logo](https://github.com/KEAF13A/Launch-X-Practicas/blob/main/assets/Logo-Abogabot.png)
   
