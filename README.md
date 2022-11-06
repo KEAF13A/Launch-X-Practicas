@@ -41,5 +41,7 @@
    		- Manda notificaciones al usuario para que vea los avances.
   # BUYER PERSONA
   ![Persona](https://github.com/KEAF13A/Launch-X-Practicas/blob/main/assets/Buyer.png)
+  # PUBLICO OBJETIVO
+  ![Public](https://github.com/KEAF13A/Launch-X-Practicas/blob/main/assets/Publico_Objetivo.png)
    	
   
